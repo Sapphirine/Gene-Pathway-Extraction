@@ -21,3 +21,6 @@ $ ./fasttext skipgram -input all_the_paper.txt/fil9 -output model/fil9
 6.Then run the Embedding_and_K-means.ipynb file to generate the relationships embedding and K-mean clustering visualization result.
 
 7.This is the Pipeline of TextCNN
+
+        Gene-Pathway-Extraction/TextCNN.png
+      
