@@ -1,3 +1,5 @@
+# Gene Pathway Extraction
+
 1.Run the notebook named load_reader.ipynb, the scripts in reader.py are attached and will get embed_label.csv and SENtences.tsv files under ./data directory
 
 2. Clone the fastText model to ./model directory and run the following:
