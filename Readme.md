@@ -23,7 +23,7 @@ $ ./fasttext skipgram -input all_the_paper.txt/fil9 -output model/fil9
 7. Run the [main.ipynb](./main.ipynb) to replicate the results.
 
 
-## This is the Pipeline of TextCNN approach
+## This is the pipeline of TextCNN approach
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/TextCNN.png?raw=true)
   
   
