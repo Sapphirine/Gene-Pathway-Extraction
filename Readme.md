@@ -23,26 +23,27 @@ $ ./fasttext skipgram -input all_the_paper.txt/fil9 -output model/fil9
 7. Run the [main.ipynb](./main.ipynb) to replicate the results.
   
 &nbsp;  
-&nbsp;
-
 ## This is the pipeline of TextCNN approach
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/TextCNN.png?raw=true)
   
 &nbsp;  
 &nbsp;
-  
+&nbsp;
+
 ## Connected Graph for known lung cancer genes in the existing archived lung cancer gene pathways
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/known_cancer_genes.png?raw=true)
   
 &nbsp;  
 &nbsp;
-  
+&nbsp;
+
 ## Connected Graph for genes that are related to known lung cancer genes.
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/related_genes.png?raw=true)
   
 &nbsp;  
 &nbsp;
-  
+&nbsp;
+
 ## Connected Graph for all genes present in the corpus.
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/all_genes.png?raw=true)
       
