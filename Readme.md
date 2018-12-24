@@ -27,12 +27,15 @@ $ ./fasttext skipgram -input all_the_paper.txt/fil9 -output model/fil9
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/TextCNN.png?raw=true)
   
   
+  
 ## Connected Graph for known lung cancer genes in the existing archived lung cancer gene pathways
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/known_cancer_genes.png?raw=true)
   
   
+  
 ## Connected Graph for genes that are related to known lung cancer genes.
 ![image](https://github.com/Sapphirine/Gene-Pathway-Extraction/blob/master/figures/related_genes.png?raw=true)
+  
   
   
 ## Connected Graph for all genes present in the corpus.
