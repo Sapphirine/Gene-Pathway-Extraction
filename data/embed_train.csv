@@ -1,0 +1,301 @@
+﻿Sentence,Gene1,Gene2,label
+   Nicholson    Lucinda   Billingham aa Cancer  Research  UK  Clinical  Trials  Unit  CRCTU  MRC  Midland  Hub  for  Trials  Methodology  Research  Institute  of  Cancer  and  Genomic  Sciences  Universityof   Birmingham  United  Kingdomb Department  of  Medicine  Royal  Marsden  Hospital  London  SW   JJ  United  Kingdomc Institute  of  Applied  Health  Research  University  of  Birmingham  United  Kingdomd Research  Institute  for  Primary  Care  and  Health  Sciences  Keele  University  United  Kingdome Department  of  Histopathology  Royal  Brompton  and  Hareeld  NHS  Foundation  Trust  and  National  heart  and  Lung  Institute  Imperial  College  LondonUnited   Kingdoma          oa       tArticle  historyReceived    September  Received  in  revised  form  November  Accepted    November  KeywordsERCC  proteinHumanBiological  markersDrug  therapyAntineoplastic  therapyCarcinomaNonsmallcell  lungClinical  trials  as  topicObjectives   Consistency   of   procedures   for   the   evaluation   of    predictive   biomarker   including   samplecollection   processing   assay   and   scoring   system   based   on   adequate   evidence   is   necessary   to  implementresearch   ndings   in   clinical   practice,MRC,NHS,0
+gov  Trial records  WHO   records Controll edTrial recordss     study tles  duplicates removed study tles screened  studies relevant not considered  studies  relevant potenal ly ment exclusions no ERCC assess CLC  not NSents  duplicate entries  databases no planu completedpa  based chemothera  prior  to   with dierent numben dierent rs     pyed  includ studies   sequesonnairesnt   no reply received  receivedonnaires replies   ques    email only Fig,ERCC1,CLC,0
+    Lung  Cancer      ilezs epmas dennaplelative RCTle arm biomarker strategy single arm correlativecorr sing biomarker strategy RCTstratified analysis of samples from multiple    RCT rialsTCNTCNTCNTCNTCNTCNTCNTCN TCNTCNTCNI TEACATItlexaecoDTLGI TCNTSETNOCETSATCLCNTPITCNTCNITeDAMTCNtrial phaseIII SII OBECALnacsonegocamrahPTCNCRTRTChCiIV TCNTCNTCNTCNELTSACNRTI eDAM ere ERCC trial designral to  evaluaon undertaken   response to quesonnaire rec  response to quesonnaire received and ERCC Correlave studies the correlaon between the biomarker status and response to treatment was invesgated but paents were not allocated to treatments or study cohorts based on the biomarker status RCTs and nonRCTsStudies whis integ    marker strategy designthe treatmBio   markn the bio RCTs iForerstrategy arm      allnRCTs for noFor paents      the tripaents were included iStraed design   ent strategy is based on the bio er status randomisaon wa  straed by the bio ve of their biomark eived and  mark er status  al irr espec  not undertaken RCC  evaluatio ermark only RCTsFig,ERCC1,RCC1,0
+govsitesentrezdbgenePrimers  have  been  previouslydescribed  in  details  Papadaki  et  al  BR  JCapaper  could  not  be  identiedPrimers  spanning  exons    of  theENST  ERCC  transcriptcidTCGTCTCCCGGGTGACTGcidandcidTTCTCTTGATGCGGCGATGAG  Intronspanning  primers Reference  gene Actin Actin Actin Actin  and  PGK Threshold  chosenCT  method  valueMedian  using NRRatio  of  ERCC  to  reference  genetranscripts  ,ERCC1,PGK,0
+  acknowledges  NHS  funding  to  theRoyal  Marsden  Hospital  NIHRBiomedical  Research  Centre  Thiswork  was  funded  by  the  MRC   Midlands  Hub  for  Trials  MethodologyResearch  at  the  University  of  Birmingham  Medical  Research  Council  Grant  ID  G  the  funder  had  no  inuence  on  the  designof  the  project  data  collection  analysis  interpretation  or  writingthe  report,NHS,MRC,0
+  Soria  Investigators  IB  DNA  repair  by  ERCC  innonsmallcell  lung  cancer  and  cisplatinbased  adjuvant  chemotherapy  ,DNA,ERCC1,1
+  Soria  ERCC  isoform  expression  and  DNA  repair  innonsmallcell  lung  cancer  ,ERCC1,DNA,0
+  SorensenRTPCR  versus  immunohistochemistry  for  correlation  and  quantication  ofERCC  BRCA  TUBB  and  RRM  in  NSCLC  Lung  Cancer      ,TUBB3,RRM1,0
+ Examples include activating KIT mutationstypically DV that are present in virtually all adults with indolent and aggressive forms of systemicmastocytosise  BRAF mutation typically VE thatis used as  diagnostic and prognostic marker for papillarythyroidaspirationsamplese KIAABRAF fusion which is diagnosticfor pilocytic astrocytoma and is associated with  betterclinical outcome and EWSR fusions mostly EWSRFLI seen in nearly  ofthe Ewings family oftumors which have greatly enhanced the ability to differentiate Ewings family of tumors from other small blueround cell tumors,KIT,BRAF,0
+ Clinicaltrials are being developed to test JAK inhibitor therapy inchildren with acute lymphoblastic leukemia and JAK mutations,JAK,JAK2,0
+ Reportingof numerical copy number changes can be performed whenappropriate eg EGFR copy number GAIN copy numberratio  CDKNA copy number LOSS,EGFR,CDKN2A,0
+ Lindeman NI Cagle PT Beasley MB Chitale DA Dacic Giaccone  Jenkins RB Kwiatkowski DJ Saldivar  Squire Thunnissen  Ladanyi  Molecular testing guideline for selectionof lung cancer patients for EGFR and ALK tyrosine kinase inhibitors,EGFR,ALK,1
+ Houdayer  CauxMoncoutier  Krieger  Barrois  Bonnet Bourdon  Bronner  Buisson  Coulet  Gaildrat  Lefol Lone  Mazoyer  Muller  Remenieras  Rvillion Rouleau  Sokolowska  Vert JP Lidereau  Soubrier Sobol  Sevenet  Bressacde Paillerets  Hardouin  Tosi Sinilnikova OM StoppaLyonnet  Guidelines for splicing analysis in molecular diagnosis derived from  set of  combined insilicoin vitro studies on BRCA and BRCA variants,BRCA1,BRCA2,0
+ Vreeswijk MPG Kraan JN Van Der Klift HM Vink GRCornelisse CJ Wijnen JT Bakker  Van Asperen CJ Devilee Intronic variants in BRCA and BRCA that affect RNA splicing canbe reliably selected by splicesite prediction programs,BRCA1,BRCA2,0
+ Inducible lungspecic overexpression ofmutant HER in  transgenic mouse model results in rapid development of NSCLC conrming oncogenicity of this driver mutation Corresponding author at  Farmington Avenue Farmington CT  UnitedStates,HER2,CT,0
+ HER pathway in NSCLCThe human epidermal growth factor receptor  HER or ERBBis  receptor tyrosine kinase of the ERBB family encoded by theHER gene located on chromosome  ,HER2,ERBB,1
+ The HER receptor lacks  known ligandbeing activated by homodimerization or heterodimerization withthe other ERBB family receptors ,HER2,ERBB,1
+ HER mutations are usuallymutually exclusive with EGFR KRAS and ALK mutations in NSCLCFig,HER2,ALK,1
+ One studydescribed high concordance between serum ECD concentrationswith IHC and FISH used to assess tissue HER status as well as adecrease in serum ECD following trastuzumabbased therapy ,ECD,HER2,1
+In  subset of Japanese patients with resected NSCLC harboring HER mutations there was no difference in overall survivalbetween these patients compared to those with EGFR mutationsor wild type ,HER2,EGFR,1
+ INFORM HER dual ISH DNA probecocktail  P ,HER2,DNA,0
+ HERkinase domain mutation results in constitutive phosphorylation and activationof HER and EGFR and resistance to EGFR tyrosine kinase inhibitors,HER2,EGFR,1
+Results   We  identied      patients   with   metastatic   or   recurrent   NSCLC   and     KRAS   activating   mutationand   we   compared   these   patients   to     patients   who   were   pan   negative   no   detectable   mutation   bythe   SNaPshot   assay   and   ALK   negative,KRAS,ALK,0
+  EGFR  mutations  occur  with  increased  frequency  in  patients  that  have  neversmoked  KRAS  mutations  occur  more  commonly  in  patients  whohave  had  signicant  tobacco  exposure  ,EGFR,KRAS,1
+Patients  with  EGFR  mutations  have  demonstrated  better  overallsurvival  OS  than  patients  with  KRAS  mutations  ,EGFR,KRAS,1
+  In  patients  receiving  adjuvant  chemotherapy  and  radiotherapy  for  primary  resectedstage  II  and  IIIA  NSCLC    subset  analysis  showed  there  was     trendtoward  improved  OS  in  patients  without  KRAS  mutations  comparedto  patients  with    KRAS  mutation  ,OS,KRAS,1
+  This  trialshowed  no  difference  in  progression  free  survival  PFS  or  OS  inpatients  with  KRAS  mutations  compared  to  patients  with  no  KRASmutation  ,OS,KRAS,1
+  Subgroupanalysis  of  PFS    and  OS    in  KRAS  mutant  versus  PMN   patients  with  adenocarcinoma  histology,OS,KRAS,1
+  Subgroup  analysis  of  PFS    and  OS    in  KRAS  mutant  versus  PMNpatients  with  metastatic  NSCLC  at  diagnosis,OS,KRAS,1
+   Overall  survivalVariable KRAS Sex     vs    Smoking    vs   HR ,KRAS,HR,0
+  KRAS  mutations  wereassociated  with  both  decreased  PFS  and  OS  in  the  multivariate  analysis  when  controlling  for  both  sex  and  smoking  history,KRAS,OS,1
+  In  this  retrospective  analysis  we  found  that  patients  with  KRAS  mutations  had    worseprognosis  in  terms  of  PFS  and  OS  when  compared  to  patients  withno  detectable  NSCLC  tumor  mutations,KRAS,OS,1
+  Conversely    retrospectiveanalysis  by  Mellema  and  colleagues  which  included    patientsdemonstrated  no  difference  in  OS  or  response  to  chemotherapywhen  comparing  patients  with  KRAS  mutations  to  patients  without  KRAS  mutations  ,OS,KRAS,0
+  BRAF  and  RAS  mutations  in  humanlung  cancer  and  melanoma  Cancer  Res,BRAF,RAS,0
+  Prognostic  and  therapeuticimplications  of  EGFR  and  KRAS  mutations  in  resected  lung  adenocarcinoma  ,EGFR,KRAS,0
+  Clinical  outcome  with  platinumbasedchemotherapy  in  patients  with  advanced  nonsquamous  EGFR  wildtypenonsmall  cell  lung  cancer  segregated  according  to  KRAS  status  Clin,EGFR,KRAS,0
+ Pathology records werereviewed and data about EGFR mutation status ALK rearrangementstatus tumor morphology IHC results for TTF CK p andCK were recorded,EGFR,ALK,0
+Univariate analysis was also performed for EGFR mutation status patients with available data ALK rearrangement status andIHC results CK p and CK,EGFR,ALK,0
+Positive TTF trended to be associated with longer OS in univariate analysis in  statistically nonsignicant manner HR ,TTF1,OS,1
+ In this subgroup analysis all variables with the exceptionof the age variable were found to be statistically signicantlycorrelated with OS positive TTF with HR  ,OS,TTF1,0
+Abbreviations ALC  absolute lymphocyte count ANC  absolute neutrophil count CBC  complete blood count CI  condence interval Hgb  hemoglobin HR  hazard ratio IQR interquartile range LDH  lactate dehydrogenase NLR  neutrophil to lymphocyte ratio OS  overall survival Plt  platelets SD  standard deviation WBC  white blood cells,HR,OS,0
+AlbuminNLRAbbreviations ADC  adenocarcinoma CI  condence interval HR  hazard ratioIHC  immunohistochemistry NFA  nonesmallcelllung cancer favor adenocarcinomaNLR  neutrophil to lymphocyte ratio OS  overall survival,HR,OS,0
+We have found that positive TTF trended to be associated withlonger OS in univariate analysis in  statistically nonsignicantmanner HR ,TTF1,OS,1
+ Negative TTF wasreported to be associated with the absence of EGFR mutation withan accuracy of ,TTF1,EGFR,1
+ EGFR KRAS BRAF and ALK genealterations in lung adenocarcinomas patient outcome interplay with morphologyand immunophenotype,BRAF,ALK,1
+ For example overexpression of AKT couldnot fully restore the malignant phenotypes induced by PDK Raimondiand Falasca ,AKT,PDK1,1
+Serum and glucocorticoid kinase SGK family contains threemembers SGK SGK and SGK Bruhn et al,SGK2,SGK3,0
+ The expression of SGK was positively correlatedwith the progression of breast cancer and promoted the tumorigenesisindependent of AKT Sahoo et al,SGK3,AKT,1
+SGK shared high structural and functional homologies with AKT and involved in the tumorigenesis of liver cancer breast cancer and melanomaLiu et al,SGK,AKT,1
+SGK has been reported to regulate TSC complex FOXOa transcriptional factors Hong et al,SGK,TSC2,1
+ Thereforesimultaneously targeting SGK and AKT with small molecule inhibitorsmight improve the therapeutics effects,SGK,AKT,1
+ PDK and SGK contribute to the growth of BRAFmutantmelanomas and are potential therapeutic targets,PDK1,SGK3,1
+ Prognosticvalue of PIKCA and phosphorylated AKT expression in ovarian cancer,PIK3CA,AKT,0
+ Singaporeg Department of HaematologyOncology National University Cancer Institute National University Health System Singaporeh Cancer Science Institute of Singapore National University of Singapore Singaporei Department of Pathology Severance Hospital Yonsei University College of Medicine Seoul Republic of KoreaA          OA       TKeywordsALKROSFluorescent in situ hybridizationNonsmallcell lung cancerBackground ALK and ROS gene rearrangements are distinct molecular subsets of nonsmallcell lung cancerNSCLC and they are strong predictive biomarkers of response to ALKROS inhibitors such as crizotinib,ALK,ROS1,0
+Methods Study population composed of three patient cohorts with histologically conrmed lung adenocarcinoma patients with ALK rearrangement patients with ROS rearrangement and patients with wildtype ALKand ROS,ALK,ROS1,0
+ ALK rearrangement waspreviously assessed by Vysis ALK Break Apart FISH Probe Kit Abbott Molecular Abbot Park IL USA and ROSrearrangement was previously assessed by ZytoLight SPEC ROS Break Apart Probe ZytoVision GmbH,ALK,ROS1,0
+Results For  total of  patient samples the concordance of the results by Vysis ALKROS Dual Break ApartProbe Kit was evaluated and compared to the known ALK and ROS rearrangement status of the specimen,ALK,ROS1,0
+Conclusion Vysis ALKROS Dual Break Apart Probe Kit RUO can detect ALK and ROS rearrangement simultaneously in NSCLC,ALK,ROS1,0
+Dierent technologies are available to identify ALK and ROS generearrangements,ALK,ROS1,0
+ Performance of ROS IHC and FISHhave been also tested which suggested that ROS IHC is highly sensitive but less specic compared with ALK IHC,ROS1,ALK,0
+ Until now FISH has been used asa conrmatory test in the diagnosing ALK and ROS rearrangements,ALK,ROS1,0
+Currently ALK and ROS tests are performed separately requiringmore time eort and more importantly samples,ALK,ROS1,0
+ The colorconguration of the color probe set employs the redgreen colorcombination for the ALK breakapart probe and goldaqua color combination for ROS breakapart probe,ALK,ROS1,0
+ ALK and ROS FISH analysisALK and ROS rearrangements were previously identied separately on formalinxed paranembedded FFPE tumors using VysisALK Break Apart FISH Probe Kit Abbott Molecular Abbott Park ILUSA and ZytoLight SPEC ROS Break Apart Probe ZytoVisionGmbH,ALK,ROS1,0
+ ALK and ROS RUO FISH in ALKpositive cohortThe concordance of results obtained from Vysis ALKROS DualBreak Apart Probe Kit was evaluated in relation to the ALK and ROSrearrangement status of the specimen as previously determined,ALK,ROS1,0
+ ALK and ROS RUO FISH in ROSpositive cohortAmong  ROSpositive cases  cases were successfully evaluatedby Vysis ALKROS Dual Break Apart Probe Kit giving  success rate of,ALK,ROS1,0
+ ALK and ROS RUO FISH in ALKROS wild type cohortRegarding  wild type cases  samples  were successfullyevaluated using Vysis ALKROS Dual Break Apart Probe Kit,ALK,ROS1,0
+ The successful samples were  concordant with the previous resultsand were negative for both ALK and ROS,ALK,ROS1,0
+to the previous ALK and ROS tests in all the three patients cohorts ALKrearranged ROSrearranged and ALKROS wildtype,ALK,ROS1,0
+Determination of ALK and ROS rearrangement status has becomemandatory in the treatment of NSCLC patients due to the availability ofALK and ROS inhibitors,ALK,ROS1,0
+In conclusion Vysis ALKROS Dual Break Apart Probe Kit candetect ALK and ROS rearrangement simultaneously in NSCLC,ALK,ROS1,0
+ Molecular testing guideline for selection of lung cancerpatients for EGFR and ALK tyrosine kinase inhibitors guideline from the College ofAmerican Pathologists International Association for the Study of Lung Cancer andAssociation for Molecular Pathology ,EGFR,ALK,0
+ EGFR mutations and ALK rearrangements were investigated in   and  patients respectively and were detected in   and   of these patients respectively,EGFR,ALK,0
+                      SD standard deviation NSCLC nonsmallcell lung cancer NOS not otherwisespecied ECOG PS Eastern Cooperative Oncology Group performance statusEGFR epidermal growth factor receptor gene ALK anaplastic lymphoma kinasea One patient was both EGFR mutation  and ALK rearrangementpositive,EGFR,ALK,0
+ MinoKenudson EGFR mutations and ALK rearrangements are associated with low response rates to PD pathway blockade in nonsmall cell lung cancer  retrospective analysis Clin,EGFR,ALK,0
+ Cui and his colleagues reported that miR promoted tumor progression in  nonsmallcell  lung  cancer  partially  antagonist  functions of  SMAD  and  TNFAIP,SMAD4,TNFAIP1,0
+ Results indicated suppression of STAT by miR remarkably inhibited protein expression of cyclin  cyclin D phosphorylatedRb Rb and  CDK,STAT3,CDK2,1
+ Our results demonstrated the protein levels of RB cyclin D cyclin  and CDK were suppressed by the overexpression of miR and downregulation of STAT Figure g,CDK2,STAT3,1
+  The  untranslated  region UTR of human STAT was amplified from human genomic DNA  and  individually  inserted  into  the  pmiRRBREPORT Ribobio Guangzhou China using the XhoI and NotI sites,STAT3,DNA,0
+ STAT and STAT mediate ILdependent and inflammationassociated gastric tumorigenesis in gp receptor mutant mice,STAT3,STAT1,0
+ Mutations in the EGFR kinase domain mediate STAT activation via IL production in human lung adenocarcinomas,EGFR,STAT3,1
+ Nonreceptor tyrosine kinase BMX maintains selfrenewal and tumorigenic potential of glioblastoma stem cells by activating STAT,BMX,STAT3,1
+ Phosphorylation of EZH activates STAT signaling via STAT methylation and promotes tumorigenicity of glioblastoma stemlike cells,EZH2,STAT3,1
+ In AML approximately of patients achieve CR following standard anthracyclinecytarabineebasedImportantlyremission induction alone is not sufcient for longtermdisease controlIn  recent EuropeanGroup for Blood and Marrow Transplantation analysis ofpatients with AML relapse after reducedintensity conditioning AlloSCT durable remissions were observed almostexclusively in patients whose chemotherapyinduced CR wasconsolidated with either DLI or  second SCT  Figure ,CR,SCT,1
+Analysis of European Bone Marrow Transplantation Registry data from patients in CR after rstline cytoreductive therapy for relapsed AML afterAlloSCT demonstrated improved OS with use of donor cells for consolidation   vs,CR,OS,0
+ Potential targets have been exploited in previousstudies for example with the monoclonal antibodies CDalemtuzumab and CD rituximab and with antibodyedrug conjugates such as CD gemtuzumab ozogamicin CD denileukin diftitox and CD inotuzumabozogamicin all small studies demonstrating limited clinicalactivity in AlloSCT relapse ,CD33,CD22,0
+Effect of Staging with PET andEBUS on Outcomespatients who did not undergo PET OS with the additionof diagnostic PET was longer in both the surgery hazardratio HR  ,PET,OS,0
+Patients and MethodsPatientsWe retrospectively reviewed the medical records of patients withNSCLC harboring EGFR mutations who were treated at ShizuokaCancer Center where patients experienced PD after at least EGFRTKI treatment and  rebiopsy had been performed,EGFR,PD,0
+ extrathoracic lesion Transbronchial biopsy EBUSTBNA CTguided biopsy Echoguided needle biopsyAbbreviations CT  computed tomography EBUSTBNA  endobronchial ultrasoundguided transbronchial needle aspiration EGFR  epidermal growth factor receptor PD  disease progressionTKI  tyrosine kinase inhibitor,CT,EGFR,0
+Samples were frozen within  minutes of sampling and storedat ,DNA,EGFR,0
+      Total duration ofEGFRTKI treatmentbefore rebiopsy morangeTKIfree interval rangeTKI treatmenthistory immediatelybefore rebiopsyYesNoPrevious EGFRTKItreatment totalGetinibErlotinibOthersBeyondPDtreatment withinitial EGFRTKI rangePFS on initialEGFRTKI treatmentmo rangeResponse to initialEGFRTKI treatmentCompleteresponsePartial responseStable diseaseprogressivedisease Overall survival morangeAbbreviations EGFR  epidermal growth factor receptor PD  disease progression PFS progressionfree survival TKI  tyrosine kinase inhibitor,EGFR,PD,0
+ yesAbbreviations CI  condence interval EGFR  epidermal growth factor receptor OR  oddsratio PD  disease progression PFS  progressionfree survival TKI  tyrosine kinaseinhibitor,EGFR,OR,0
+ECOG NCIC CTG BRRADIANTADJUVANTMAGRITAbbreviations CI  condence interval CT  chemotherapy DFS  diseasefree survival ECOG  Eastern Cooperative Oncology Group OS  overall survival Ref,CT,OS,0
+ DNA repair by ERCC in nonsmallcell lungcancer and cisplatinbased adjuvant chemotherapy,DNA,ERCC1,1
+ As tobiocompatibility TMC is better than CS,TMC,CS,0
+ HA can recognize and combine with CD on the surfaceof cancer cells,HA,CD44,1
+ For patients with advanced nonsquamousNSCLCinternational and Chinese clinical practice guidelines recommend testing for EGFR mutations and ALK rearrangements at diagnosis to guide treatment decisions ,EGFR,ALK,0
+ Hospitalwaiting time for gene aberration test results was dened as the longer ofthe two hospital waiting times for the EGFR and ALK test results andwas calculated from the date of obtaining the patient sample to the datethat the patient received the test result,EGFR,ALK,0
+ EGFR tests included theAmplication Refractory Mutation System ARMS and direct sequencing and ALK tests included immunohistochemistry uorescent in situhybridization and next generation sequencing depending on the individual hospital,EGFR,ALK,0
+Abbreviations ALK  anaplastic lymphoma kinase CI  condence interval ECOG  Eastern Cooperative Oncology Group EGFR  epidermal growth factor receptor PS  performance status TKI  tyrosine kinase inhibitor,ALK,EGFR,0
+ Molecular testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine kinase inhibitorsguideline from the College of American Pathologists International Association forthe Study of Lung Cancer and Association for Molecular Pathology ,EGFR,ALK,0
+ Although there was no difference in the frequency of EGFR mutations between Caucasian andAfricanAmerican individuals KRAS mutations were signicantlymore frequent in Caucasian individuals,EGFR,KRAS,1
+ Blood samples of allpatients are to be extracted at baseline and then at Table Summary of the French randomized trial of perioperative chemotherapy in early stage NSCLCCharacteristicSurgeryChemotherapysurgeryIncluded patientsEligible patientsStage  II Stage III Pathologic CR after CT Resection rate Postoperative mortality Postoperative radiotherapy Median survival monthsOneyear survival Threeyear survival  ,CR,CT,0
+ Since our model suggest that cooccurrence of TP mutation with sensitizing EGFR mutation maycontribute to de novo resistance by enhancing EGFRHER heterodimerization we tested whether panHER inhibitors such as afatinibmay be more active by blocking heterodimerization of the open form ofEGFR with HER in this comutant cells than getinib We comparedthe cytotoxicity of getinib with panHER inhibitor afatinib againstBaF cells harboring EGFR GS mutation concurrently with orwithout TP mutation,EGFR,HER2,1
+ In addition because the TP mutation is thought to inducethe extracellular EGFR domains into the opened form making it easierto heterodimerize with HER receptors see Fig,EGFR,HER2,1
+ E ecient treatmentresults with EGFR and HER dualinhibitors like afatinib make sense,EGFR,HER2,1
+ Furthermore  prospective pilot clinicalstudy is needed to test EGFR and HER inhibitors such as afatinib forthe small subset of patients with TP EGFR mutations,EGFR,HER2,1
+ Pao Nextgeneration sequencing of paired tyrosinekinase inhibitorsensitive and  resistant EGFR mutant lung cancer cell lines identies spectrum of DNA changes associated with drug resistance Genome Res,EGFR,DNA,1
+  Subsequently  other  rare  fusion  genes have been identi ed involving ROS with similar exquisite sensitivity  to  kinase  inhibition  but  also  RET  and  NTRK where objective response rates were lower,RET,NTRK,1
+ Tissue sections or cytology specimens are subjected to  protocol  that  labels  either  side  of  the  ALK  breakpoint locus  with  red  and  green   uorescent  DNA  probes,ALK,DNA,0
+suggest    small  minority  of  tumours  can  contain  both ALK  and  EGFR  positive  clones,ALK,EGFR,1
+NCT trial The  use  of  minimally  invasive  methods  to  detect mutations in circulating cellfree DNA cfDNA or liquid including  KRAS mutations of which  show concomitant  STK  mutation  and    EGFR mutations  in  patients  with  adenocarcinoma,DNA,KRAS,0
+  CCGAs  in  NSCLC  include  loss  of CDKNA  or  ampli cation  of  CDK  or  cyclin  D,CDKN2A,CDK4,1
+ Molecular testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine kinase inhibitors guideline from the College of American Pathologists International Association for the Study of Lung Cancer and Association for Molecular Pathology,EGFR,ALK,1
+ Screening for EGFR and KRAS mutations in endobronchial ultrasound derived transbronchial needle aspirates in nonsmall cell lung cancer using COLDPCR,EGFR,KRAS,1
+ Rapid KRAS EGFR BRAF and PIKCA mutation analysis of  ne needle aspirates from nonsmallcell lung cancer using allelespeci  qPCR,BRAF,PIK3CA,0
+ ALK ROS and RET rearrangements in lung squamous cell carcinoma are very rare,ROS1,RET,1
+ RET ROS and ALK fusions in lung cancer,ROS1,ALK,1
+  novel ALK secondary mutation and EGFR signaling cause resistance to ALK kinase inhibitors,ALK,EGFR,1
+comlocatebbadisOncogenic function of TUSC in nonsmall cell lung cancer is associatedwith Hedgehog signalling pathwayYe Gua Xiaojuan Peia Yansong Rena Kaican Caid Kang Guoa Jiaye ChenaWeizhao Qina Mingdao Lina Qian Wanga Na Tange Zhiqiang Chenge Yanqing DingaJie Lina Department of Pathology Nanfang Hospital  School of Basic Medicine Southern Medical University  Guangzhou Avenue Guangzhou  PR Chinab Guangdong Provincial Key Laboratory of Molecular Tumor Pathology  Guangzhou Avenue Guangzhou  PR Chinac Department of Pathology Huizhou Central People Hospital Huizhou Guangdong  PR Chinad Department of Thoracic Surgery Nanfang Hospital Southern Medical University Guangzhou  PR Chinae Department of Pathology Shenzhen People Hospital Shenzhen  PR ChinaMARKA          OA       TKeywordsTUSCNSCLCHh signalling pathwayNonsmall cell lung cancer NSCLC represents  of all lung carcinomas which is the most common causeof death from cancer,TUSC3,PR,0
+ Coimmunoprecipitation and immunouorescence analysesfurther revealed interaction between TUSC and GLI,TUSC3,GLI1,1
+ Protein lysates were resolved on  SDS polyacrylamide gel transferred onto PVDF polyvinylidene uoride membranesImmobilon  Millipore MA and blotted according to standardmethodsSAB Sigma Aldrich vimentin  V SigmaAldrich actin  a Sigma Aldrich TUSC SAB Sigma Aldrich catenin  C SigmaAldrich GLI   Cell Signalling MA SMO antibodies cadherinusingthefollowing,SDS,TUSC3,1
+ab Abcam MA PTCH   Cell Signalling MAand PTCH   Cell Signalling MA,PTCH1,PTCH2,1
+ Immunouorescence analysisCells were seeded on coverslips at  density of    per well for  and then probed with primary antibodies against TUSCSAB Sigma Aldrich MO GLI  Cell SignallingMA and SMO ab Abcam MA,GLI1,SMO,1
+ Increased proteinabundance of GLI SMO PTCH and PTCH were observed in HTUSC cells with remarkably upregulated TUSC expression,PTCH2,TUSC3,1
+Coimmunoprecipitation analysis revealed proteinprotein interactionbetween TUSC and GLI indicating that endogenous human TUSCwas physically associated with GLI Fig,TUSC3,GLI1,1
+ Immunouorescenceanalysis showed that TUSC expression was mainly localized to thecytoplasm while GLI expression was localized to both the cytoplasmand the nucleus Fig,TUSC3,GLI1,1
+ Overexpression of TUSC in A cells led toincreased GLI expression in the nucleus and decreased GLI expressionin the cytoplasm as compared with the control cells Fig,TUSC3,GLI1,1
+ The expression level of catenin which upregulates the critical EMTactivator ZEB  alsodid not show evident change in TUSC overexpressed or silenced cellsas compared with the control cells Fig,ZEB1,TUSC3,0
+ in TUSC silenced A cells results in increased SMO protein abundance comparable to that in the control cells NC,TUSC3,SMO,1
+ The expression levels of TUSC relative to ACTB were fold higher in the surgical NSCLC tissues than in the paired normaltissues   ,TUSC3,ACTB,1
+  Immunouorescence stainingshowing decreased SMO expression in TUSC silenced A cells compared with the control group,SMO,TUSC3,1
+ Interestingly inthis study we found that both the A and H cell lines known forharbouring KRAS mutation showed higher TUSC expression than theother NSCLC cell lines ,KRAS,TUSC3,1
+ Meanwhile KRAS mutations are frequentlydetected in CRC and sporadic PTC  in which elevated TUSCexpressions have been documented and an oncogenic role of TUSC hasbeen suggested ,KRAS,TUSC3,1
+ By contrast KRAS is not commonly mutated inprostate cancer breast cancer and ovarian cancer  in whichdownregulation of TUSC expression has been reported ,KRAS,TUSC3,1
+Therefore the function of TUSC in carcinogenesis may be associatedwith context or tissuespecic molecular proles such as the mutational status of the KRAS gene,TUSC3,KRAS,1
+ The ligand binding relieves the inhibition of PTCH receptorson another transmembrane protein Smoothened SMOtherebytriggering  cascade that leads to the activation of GLI transcriptionalfactors ,PTCH,GLI,1
+ Several inhibitors of the Hh pathway such as PTCH andHip are also targeted by the GLI transcriptional factors thus creating anegative feedback loop that restricts the extent of Hh signalling ,PTCH,GLI,1
+Immunouorescencelocalization showed decreased SMO expression in TUSC silencedA cells as compared with the control cells Fig,SMO,TUSC3,1
+ TUSC interacts with GLI in NSCLC cells,TUSC3,GLI1,1
+  TUSC coimmunoprecipitates with GLI in NSCLC cells,TUSC3,GLI1,1
+ Lysates from H cells were immunoprecipitated with TUSC antibody orcontrol IgG and detected with GLI antibody then immunoprecipitated with GLI antibody or control IgG and detected with TUSC antibody,TUSC3,GLI1,1
+  Immunouorescence staining showingthe localisation of TUSC in the cytoplasm and presence of GLI in both the cytoplasm and nucleus in A cells,TUSC3,GLI1,1
+  Overexpression of TUSC in A cells leads to increased GLIexpression in the nucleus and decreased GLI expression in the cytoplasm as compared with the control cells,TUSC3,GLI1,1
+ This may suggest that either the increaseof GLI expression level related with TUSC overexpression was notstrong enough to induce EMT transition or the EMT transition was notevident enough to be detected,GLI1,TUSC3,1
+ Activation of the Hh signallinginhibits the Sufu activity thus allowing GLI and GLI to translocate tothe nucleus and bind to target genes to activate transcription ,GLI1,GLI2,1
+ In this study we detected physical interactionbetween TUSC and GLI protein using coimmunoprecipitation analysis Fig,TUSC3,GLI1,1
+ Here we also demonstrated that overexpressionof TUSC in A cells leads to increased GLI expression in thenucleus and decreased GLI expression in the cytoplasm as comparedwith the control cells Fig,TUSC3,GLI1,1
+ Since expression of TUSC in thecytoplasm has been observed in ovarian cancer cells and CRC cellsbefore  it is possible for TUSC to interact with GLI andparticipate in the translocation of GLI from the cytoplasm to thenucleus,TUSC3,GLI1,1
+ Lin TUSC promotescolorectal cancer progression and epithelialmesenchymal transition EMT throughWNTbetacatenin and MAPK signaling ,TUSC3,MAPK,0
+ Gazouli BRAF and RAS mutation in  Greek papillary and medullary thyroidcarcinoma cohort Anticancer Res,BRAF,K-RAS,1
+ Hui Negativeregulation of GLI and GLI activator function by Suppressor of fused throughmultiple mechanisms Dierentiation   ,GLI1,GLI2,1
+ Psoralidin induced reactive oxygen species ROSdependent DNA damage andprotective autophagy mediated by NOX in breast cancer cells,DNA,NOX4,1
+              bThreedimensional   electrochemical   DNA   biosensor   based   on   DgrapheneAg   nanoparticles   for   sensitive   detection   of   CYFRA   innonsmall   cell   lung   cancerMei   Chen    Yuanyuan   Wang    Huilan   Su    Li   Mao    Xinni   Jiang    Tao   Zhang Xiaozhen   Dai  Department  of  Biomedical  Sciences  Chengdu  Medical  College  Chengdu  Sichuan    PR  Chinab School  of  Public  Health  Chengdu  Medical  College  Chengdu    PR  Chinaa          oa       tArticle  historyReceived    May   Received  in  revised  form  September  Accepted    September  Available  online    September  KeywordsDNA  biosensorD  grapheneAg  nanoparticlesNonsmall  cell  lung  cancerCYFRA  DNAMany   studies   have   conrmed   that  CYFRA   DNA   is     sensitive   and   specic   marker   for   nonsmall   celllung   cancer   NSCLC,DNA,PR,0
+  Thehybridized  electrode  was  rinsed  with  PBS  to  remove  any  nonspecif  MB   solutionically  adsorbed  DNA  and  was  incubated  in     containing    mM  NaCl  for    min   and  then  washed  with  ,MB,DNA,0
+  MB  is    phenothiazine  dye  that  iswellknown  to  be  used  as  indicator  in  the  development  of  an  electrochemical  DNA  biosensor  ,MB,DNA,0
+Abbreviations API  AsianPacic IslanderAmericanAlaskan native NOS  not otherwise specied NSCLC  nonesmall cellcancer,API,NOS,0
+ Mechanisticstudy showed that DEPDCB was able to activate Wntcatenin signaling and that depletion of TCFor LEF abrogated the biological effects of DEPDCB on cellular migration and invasion,DEPDC1B,LEF1,1
+ Consistently ectopic expression of DEPDCB in A and Calu cellsmarkedly induced transcription of Wntcatenin downstreamincluding Axin DKK MMP MMP and SOXgenes Fig,DEPDC1B,MMP9,1
+  Western blotting analysis conrmeddepletion of TCF or LEF with specic siRNA in DEPDCBexpressing cells,TCF4,LEF1,1
+ Massague WNTTCF signaling through LEF and HOXB mediateslung adenocarcinoma metastasis Cell   ,LEF1,HOXB9,1
+Abbreviations ALK  anaplastic lymphoma kinase ECOG  Eastern Cooperative OncologyGroup EGFR  epidermal growth factor receptor EML  echinoderm microtubuleassociatedproteinelike  IC  tumorinltrating immune cells KRAS  Kirsten rat sarcoma virusPDL  programmed deathligand  TC  tumor cells,ALK,EGFR,0
+Patients with EGFR driver mutations had an OS HR of ,EGFR,OS,1
+ Patientswithout EGFR mutation had an OS HR of ,EGFR,OS,1
+ Furthermore no Japanese patients with ALK translocation or KRAS Kirsten rat sarcoma viral oncogene mutationswere enrolled,ALK,KRAS,0
+Abbreviations CI  condence interval HR  hazard ratio IC  tumorinltrating immune cells ITT  intentiontotreat NE  not estimable OS  overall survival PDL  programmed deathligand  TC  tumor cells,HR,OS,0
+SDPDAbbreviations CR  complete response ORR  objective response rate PD  progressivedisease PR  partial response SD  stable disease,CR,PD,0
+HistologyIHC stainTTF clone GG DAKONCAM clone B LeicaSYN clone G LeicaCGA clone DAKA DAKOEGFR mutation statusLRTMBefore GetinibAdenocarcinomaNEResistanceGetinibSmall cellcarcinomaNEBefore OsimertinibAdenocarcinomaIHC Immunohistochemical TTF Thyroid Transcription Factor NCAM Neural cell adhesion molecule SYN Synaptophysin CGA Chromogranin  EGFR epidermalgrowth factor receptor NE not evaluated,NCAM,SYN,0
+ Dened  as  PR  or  CR,PR,CR,0
+  The  median  PFSand  OS  in  the  EGFR  mutated  patients  was  ,OS,EGFR,1
+ DLEU and the rstexon of DLEU are the only knownthere is atCancer Cell  January    Elsevier Inc,DLEU2,DLEU1,1
+ Although only targetedtherapies for genetic alterations of EGFR ALK BRAF and ROS areconsidered so far standard of care there are many other additionalactionable genetic aberrations such as MET HER RET or NTRK withgreat potential for target inhibition  but despite personalisedtreatment all patients eventually progress,BRAF,RET,1
+Abbreviations PDL programmed death ligand nr number ICI immune checkpoint inhibitor EGFR epidermal growth factor receptor wt wildtype DoRduration of response vs versus PFS progression free survival OS overall survival tox toxicity LTS long term survival TKI tyrosine kinase inhibitor TPS tumorproportion score pembro pembrolizumab NA not available TRAE treatment related adverse events nivo nivolumab NR not reported ipi ipilimumab insinsertion chemo chemotherapy TC tumor cells IC immune cells atezo atezolizumab durva durvalumab ALK anaplastic lymphoma kinase EAP expandedaccess program Also including EGFR unknown  EGFRmutant patients EGFR TKI pretreated  patients received previous erlotinib  other targeted therapies notspecied according to EGFRmutational status  only responses at rst assessment mentioned  results cohort  summarized for DoR PFS and OS as pooling wasnot possible   patient both EGFR and ALK,EGFR,OS,0
+ It is nevertheless important to note that improved antitumor activity of immunotherapy with BRAF and MEK inhibitors hasbeen already described using syngeneic BRAFVEdriven mousemodels in melanoma ,BRAF,MEK,1
+ These results mirror those reported in ImmunoTarget cohortamong  MET ex skipping NSCLC  PDL positive with  RR of and median PFS and OS of ,MET,OS,1
+ In the EGFRALK cohort PFS and OS was longer in thecombination arm with atezolizumab compared with the control arm so this combination could be  potential therapeutic strategy inselected ALKpositive NSCLC patients who have become refractory toall ALK inhibitors available,OS,ALK,1
+ EGFR mutations and ALK rearrangements are associated with low response rates to PDpathway blockade in nonsmall cell lung cancer  retrospective analysis,EGFR,ALK,1
+Association of EGFR and HER exon  mutations with distinct patterns of response to immune checkpoint blockade in nonsmall cell lung cancer,EGFR,HER-2,1
+Improved antitumor activity of immunotherapy with BRAF and MEK inhibitors inBRAFVE melanoma,BRAF,MEK,1
+Two   of   the   most  frequently   mutated   genes   were   TP      and   KRAS   ,TP53,KRAS,1
+   EGFR   mutations   were   signicantly   associated   with   adenocarcinoma   female   gender   and   neverlightsmoking   history   CTNNB   mutations   with   light   exsmokersPIKCA   and   TP   mutations   with   squamous   cell   carcinoma   and   KRAS   with   adenocarcinoma,EGFR,CTNNB1,1
+   TP   mutations  were   most   prevalent   in   current   smokers   and  ERBB   ERBB   PIKCA   NRAS   NOTCH   FBWX   PTENand   STK   mutations   occurred   exclusively   in      group   of  eversmokers   however   the   association   was   notstatistically  signicant,TP53,STK11,1
+Conclusion   Finnish   NSCLC   patients   have     similar   mutation   prole   as  other   Western   patients   howeverwith     higher   frequency   of   BRAF   mutations   but     lower   frequency   of  STK   and   ERBB   mutations,BRAF,STK11,1
+   Moreover   TP   mutations   occurred   frequently   with   other   gene   mutations   most   commonly   with   KRAS   METEGFR  and   PIKCA   mutations,TP53,PIK3CA,1
+  Patients  with  activated  EGFR  or  ALK  oncogenes  benetfrom  the  targeted  therapies  such  as  afatinib  erlotinib  and  getinibfor  EGFR  and  crizotinib  for  ALK  fusion  ,EGFR,ALK,1
+  Many  NSCLC  patientsalso  harbor  other  molecular  alterations  such  as  MET   amplicationor  KRAS  mutations  which  might  inuence  the  efcacy  of    targetedtreatment  leading  to  primary  or  secondary  resistance  ,MET,KRAS,1
+  TP  was  the  most  frequently  mutatedgene  followed  by  KRAS  Fig,TP53,KRAS,1
+  No  COSMIC  mutations  were  seenin  the  following  genes  included  in  the  Colon  and  Lung  Cancerpanel  ALK  DDR   FGFR   FGFR   MAPK  and  SMAD,MAP2K1,SMAD4,1
+  KRAS  mutationscodon    were  seen  together  with  many  other  gene  mutations  and  also  with  EGFR  mutations  HisTyr  in  one  case  andLeuArg    AlaThr    GlySer  in  one  other,KRAS,EGFR,1
+One  sample  was   exceptional  having  multiple  mutationsin  many  different  genes  that included  KRAS  GlyCys  EGFRLeuArg  AlaThr  and  GlySer  BRAF  SerAsn  CTNNBProSer  ERBB  HisTyr  PIKCA  MetIle,KRAS,BRAF,1
+  Moreover  LeuArg  wasdetected  simultaneously  with  MET   AsnSer  in  four  cases  andGlyAla  with  CTNNB  SerPhe  in  one  case,MET,CTNNB1,1
+Two  patients  with  BRAF  mutations  SerAsn  or  GlyVal  alsoharbored  activating  KRAS  codon    or    mutations,BRAF,KRAS,1
+  Approximately    of  the  EGFR  and  BRAF  and  of  KRAS  mutation  positive  samples  also  harbored    TP  mutation,EGFR,BRAF,1
+MET  mutations  were  detected  in    of  PIKCA  and    of  RASmutants,MET,PIK3CA,1
+  Two  novel  exon    deletions  of  EGFR  one    bpinsertionframeshift  variation  of  ERBB  and  one    bp  inframedeletion  in  TP  were  among  the  novel  variants,ERBB2,TP53,0
+  DiscussionIn  present  study  the  most  frequently  mutated  genes  were  indescending  order  TP  KRAS  MET  EGFR  BRAF  PIKCA  and  CTNNB,PIK3CA,CTNNB1,1
+  Moreover  we  were  able  to  detectthe  known  EGFR  and  KRAS  mutations  with  good  quality  valuedeven  in  those  samples  with  lower  tumor  content  ,EGFR,KRAS,1
+Pfs Supplemental  le  SSample  countGene EGFR ERBB ERBB FGFR MET  AKT  PIKCA        KRAS   NRAS  BRAF    CTNNB  NOTCH FBWX PTEN  STK TP        Some  samples  carry  multiple  mutations,EGFR,ERBB2,0
+aGene EGFR ERBB ERBB FGFR METbAKT PIKCA KRAS NRAS  BRAF CTNNB NOTCH FBXW PTEN  STK  TP  Total   EGFR ERBB ERBB FGFR METbAKT PIKCA KRAS NRAS BRAF CTNNB NOTCH FBWX PTEN STK,EGFR,ERBB2,0
+Histology ADC  ADSQ  LCC  SCC  other  Smoking    NS  LS  MS  CS  Smoking    Never  Ever  Asbestos  Asb  Asb  Gender  Female  Male  EGFR ,MS,CS,0
+   PIKCA KRAS ,PIK3CA,KRAS,0
+       CTNNB NOTCH FBWX ,CTNNB1,NOTCH1,0
+Activating  KRAS  EGFR  BRAF  mutations  and  ALK  fusions  have  beenpostulated  to  be  mutually  exclusive    and  this  proposal  is  conrmed  in  our  study,BRAF,ALK,1
+  Only  one  case  carrying    different  mutationsin  seven  genes  harbored  both  activating  KRAS  and  EGFR  mutations,KRAS,EGFR,1
+Two  cases  harbored  concurrent  KRAS  and  BRAF  GlyVal  andSerAsn  mutations  that  have  been  previously  reported  ,KRAS,BRAF,1
+  in  the  metaanalysis  can  be  explained  mainly  due  to  selection  of  only  EGFRKRAS  PIKCA  HER  and  ALK  wildtype  patients  in  that  study  ,HER2,ALK,1
+  However  two  out  of  eight  STK  mutations  wereseen  together  with  KRAS  and  ve  with  TP,STK11,TP53,1
+    similar  trend  ofconcurrent  STK    TP  and  KRAS    STK  was  reported  in    recentmetaanalysis  on  Western  ADCs  ,STK11,TP53,0
+  Nearly  half  of  the  EGFR  and  BRAF  mutants  and  of  the  KRASNRAS  mutants  harbored  one  or  more  concomitantTP  mutations,EGFR,BRAF,1
+  Earlier  reports  have  described  similar  concurrentTP  mutations  with  EGFR  KRAS  and  STK  mutations  although  atmuch  lower  frequencies  less  than    ,KRAS,STK11,1
+  COSMIC  mutations  in  ERBBERBB   PIKCA  NRAS  NOTCH  FBWX   PTEN  and  STK  occurredexclusively  in  eversmokers  but  without  statistical  signicance,PTEN,STK11,1
+  The  frequency  of  MET   and  KRAS  mutations  was  similar  in  both  nonexposed  and  exposed  groups    vs,MET,KRAS,1
+PIKCA  and  TP  mutations  were  associated  with  SCCs  which  isconcordant  with  previous  studies  ,PIK3CA,TP53,1
+  TP    and  KRAS  mutations    andmultiple  mutations    have  been  reported  to  predict  poorercancerrelated  overall  survival,TP53,KRAS,1
+  ConclusionsThis  hot  spot  mutation  screening  of    large  Finnish  NSCLC  cohortsuggests  that  although  mutation  proles  do  not  differ  essentiallyfrom  other  Western  patients  mutations  in  BRAF  are  seen  more  frequently  and  those  in  STK  and  ERBB  less  often  in  Finnish  NSCLCpatients,BRAF,STK11,0
+  Mutations  in  TP  were  the  most  frequent    and  theytended  to  occur  along  with  EGFR  and  KRAS  mutations,TP53,EGFR,0
+  EGFR  and  KRAS  mutations  in  lungcarcinomas  in  the  Dutch  population  increased  EGFR  mutation  frequency  inmalignant  pleural  effusion  of  lung  adenocarcinoma  Cell  Oncol,EGFR,KRAS,1
+  Japan  Lung  Cancer  Society  recommends  full  staging  using  cm  nodules  with  thePETCT  and  brain  MRI   or  CT  except  for consolidationtumor    ratio  smaller  than    because  suchnodules  hardly  metastasize  to  other  sites  ,MRI,CT,1
+AXL as  Direct Target of miRcThe transmembrane receptor tyrosine kinase AXL is  target ofmiRa that has been recently shown to play  key role in acquired resistance to EGFR inhibitors in NSCLC,AXL,EGFR,0
+ Next we evaluated longterm effects of aptamermiRNA chimera treatment on proliferation of erlotinibresisDISCUSSIONTreatment of NSCLCexpressing mutated EGFR with EGFR inhibitors although effective for most patients is hampered by occurrenceresistant clones due to de novo or increased expression of alternativeRTKs including AXL,EGFR,AXL,0
+ This nding is of importance in light of recentreports showing that elevated AXL levels induce acquired resistanceto treatment with EGFR inhibitors,AXL,EGFR,1
+ miR regulate TRAILresistance and enhance tumorigenicity through PTEN and TIMP downregulation,PTEN,TIMP3,1
+ EGFR and MET receptor tyrosinekinasealtered microRNA expression induces tumorigenesis and getinib resistancein lung cancers,EGFR,MET,1
+based  THMQiankun  capsule  plus  CAP  or  MVP  regimen,CAP,MVP,0
+  CAP  or  MVP  regimen ,CAP,MVP,1
+ Moreover statistical analysis revealed several proteins that were signicantlyoverexpressed in KRAS or EGFR mutant cell lines,KRAS,EGFR,1
+ Bioinformaticsanalysis identied subsets of proteins that reect much of the observedproteome variability as well as  smaller number of proteins exhibitingsignicant overexpression in KRAS and EGFR mutant cells,KRAS,EGFR,1
+   cell lines with EGFR mutations cell lines with KRAS mutations and  cell lines with neither EGFR norKRAS mutations were selected Supplementary Table  which werekindly provided by Roman Thomas Cologne Germany,EGFR,KRAS,1
+ KRAS and EGFR as well as NRAS and BRAF mutations wereabsent in the remaining group of nine cell lines which we refer to ascontrol group in this study,KRAS,EGFR,1
+ There was no obvious enrichment of KRAS orEGFR mutant cell lines in parts of the dendrogram indicating that on aglobal level inherent proteome diversity of different NSCLC cell linessupersedes potential effects common to Ras or EGFR oncoproteinexpression,KRAS,EGFR,1
+ Thus it appears that EMT characteristics may have  moreprofound impact on proteome composition than the presence of keyoncogenic mutations in the KRAS or EGFR genes,KRAS,EGFR,1
+ Based on these ndings we focused our analysis on therst three PCs and further explored to which extent they reectedproteome differences between the KRAS mutant EGFR mutant andcontrol cell line groups,KRAS,EGFR,0
+ On PCscores of EGFR mutant cell lines were higher than for KRAS mutant orcontrol cell lines,EGFR,KRAS,1
+ In contrast scores of KRAS mutant cell lines were higheron PC compared to the other two groups while on PC only EGFR andKRAS mutant groups showed  signicantly different distribution,KRAS,EGFR,0
+ Assignments of cell linesto either control KRAS mutant or EGFR mutant groups or to clusters  and  are indicated,KRAS,EGFR,1
+  PCA score distributions for control KRAS mutant or EGFR mutant cell lines are shown as box plots for PC PC and PC,PCA,KRAS,1
+ Signicantly different proteins between NSCLC cell line groupsWhile PCA unveiled proteins contributing to proteome diversity andfurther revealed distribution differences for NSCLC cell line groups thistype of analysis does not identify protein expression differences specicfor genomic aberrations such as oncogenic KRAS and EGFR mutations,PCA,KRAS,1
+ We performedseparate analyses to identify signicant proteins in either the KRAS orthe EGFR mutant group compared to the control cell lines,KRAS,EGFR,1
+ Moreover we did not discriminate between thedifferent mutant KRAS or EGFR forms present in the analyzed cell linesSupplementary Table ,KRAS,EGFR,1
+ On average both proteins were about threefold higherexpressed in KRAS mutant cell lines and in case of HSDB all ofthem contained higher levels than found in any of the nine controlcell lines,KRAS,HSD17B11,1
+ Protein foundin signicantly different abundance in KRAS mutant  or EGFR mutant  cell linescompared to the control cell line group as identied by  mean rankbased statistical test,KRAS,EGFR,1
+ In addition to illuminating NSCLC proteome diversitywe have mined our data for signicant expression differences in celllines harboring oncogenic KRAS and EGFR mutations,KRAS,EGFR,1
+ Oncogenes associated with adenocarcinomainclude activating mutations in the epidermal growth factor receptor EGFR gene and translocations of the anaplastic lymphoma kinase ALK  and ROS gene as well as KRAS hepatocytegrowth factor receptor MET  RET and human epidermal growthfactor receptor  HER mutations,ROS1,RET,0
+ Interestingly adenocarcinomas in nonsmokers show  signicantly higher frequency ofmutations in EGFR ALK and ROS while smokers show  highfrequency of KRAS mutations suggesting potentially differentpathogenetic mechanisms of tumour development in smokersand nonsmokers,ALK,ROS,1
+MINISYMPOSIUM MOLECULAR TESTING OF SOLID TUMOURSreceptors FGFR TP and PIKCA,TP53,PIK3CA,1
+ In small cell carcinomainactivation of the tumour suppressor genes TP and Retinoblastoma  RB are  prerequisite in its development withfurther associations with MYC translocations described,TP53,MYC,1
+ Drug resistance however typicallydevelops after  months of treatment due to further alterationsin ALK or activation of bypass signalling pathways includingEGFR KRAS and KIT,ALK,KRAS,1
+ROSThe ROS gene chromosome q also encodes an RTK within theinsulin receptor subfamily and shares many similarities to ALK,ROS1,ALK,1
+ KRAS mutations are common inNSCLC and are widely accepted to be mutually exclusive withEGFR mutations and ALK translocations,KRAS,ALK,1
+ Considering the low incidence of EGFRor ALK aberrations in Caucasian NSCLC patients the detection ofa KRAS mutation can reduce the number of insufcient reportsfor the large number of samples with suboptimal neoplastic cellcontent and may prevent the need for some repeat biopsies,ALK,KRAS,0
+ Molecular testing showed wild type KRAS and EGFR,KRAS,EGFR,1
+ The addition of fusion panels to NGS technologyto detect ALK or ROS rearrangements makes it even moreattractive and reduces both costs and handson technical timerequired for FISH,ALK,ROS1,1
+Other biomarkersIn addition to EGFR ALK ROS and KRAS several other potentialtherapeutic targets have been identied such as BRAF PIKCA MET HER RET DDR FGFR,ROS1,KRAS,1
+Patients were followed with CT  MRI imaging every  months,CT,MRI,0
+DNA damage and considering the frequency of functional loss ordysregulation of key DNA damage response DDR proteins intumours agents directly targeting components of the DDR mayhold signicant therapeutic potential ,DNA,DDR,0
+Ataxia telangiectasia mutated ATM and Radrelated ATRare critical proteins which orchestrate the DDR acting as apicalkinases in response to DNA double strand breaks DSBs initiallydetected by damage sensing proteins such as MRN MRERADNSB or PARP polyADPribose polymerase,DNA,PARP1,0
+ ATM isthe primary responder to DSBs whilst ATR is activated by  rangeof lesions including single strand DNA structures at resected endsof DBSs strand cross links and after replication fork stalling ,ATM,ATR,0
+ Cumulatively these data havesupported the translation of AZD and other ATR inhibitorsto early phase clinical evaluation as  mono and combinationtherapy with DNA damaging and molecular targeted agentsNCT NCT NCT and NCT,ATR,DNA,0
+  Protein analysis of total ATR and total AKT by Western blotting for cells treated with  nM AZD in combination with  Gy  Radiation dose responsecurves for cells treated with  nM AZD in combination radiation  DNA damage induction and repair at time intervals up to   following irradiation by scoring ofdouble strand breaks DSBs using immunohistochemical staining of BP,ATR,AKT,0
+Additionally ATR inhibition may prevent replication and increasebreaks at fragile sites in the DNA of normal cells which may beespecially prone to breakage after DNA damaging treatment incombination with an inhibitor and may impact ATM functionthrough directinteractions,ATR,DNA,1
+ ATM and ATR as therapeutic targets in cancer,ATM,ATR,1
+ DNA Damage Sensing by the ATM and ATR Kinases,DNA,ATM,1
+ Inhibition of ATM and ATR kinaseactivities by the radiosensitizing agent caffeine,ATM,ATR,1
+ Via thestimulation of Fas gene and cell proliferation survivin enters cellsand combines with regulating protein CDK for cell cycle whichresults in activation of CDKCyclinE and Rb phosphorylation topromote DNA replication and reduce G process,CDK4,DNA,0
+ Thanks tosimilarities between ALK and ROS oncogenes lessons inferred from ALK can be applied to ROSpositiveNSCLC nevertheless disparities exist between diseases mastered by these two fusion genes,ALK,ROS1,1
+ EGFR and KRAS mutations ALK genefusions seeking for ROS rearrangements is crucial,EGFR,KRAS,1
+ Innonsmall cell lung cancer NSCLC activating mutations of EGFRHER BRAF MET as well as gene fusions involving ALK ROSRET the members of NTRK and FGFR families govern the oncogenic Corresponding author at Gustave Roussy Cancer Campus  rue EdouardVaillant  Villejuif France,NTRK,FGFR,1
+  Cancer Treatment Reviews   Table Similarities and differences between ROS and ALK oncogenes as well as between the respective moleculardriven lung tumors,ROS1,ALK,1
+Lorlatinib IC values lower for ALK translating in activity in ALK GR while lack ofactivity in the corresponding ROS GRreported annually all over the world  we can estimate thatabout ,ALK,ROS1,0
+The rst report of ROS and ALK fusion genes in NSCLC datesback to  when Rikova and collaborators by means of  phosphoproteomic approach characterized tyrosine kinase signaling incell lines and clinical samples ,ROS1,ALK,1
+ More than  genes have beendetected as ROS fusion partners in NSCLC see next chapter fromthe rstly described and most common CD to the recentlyreported TPDL ,ROS1,CD74,0
+An element of clear biological and clinical interest is the homology between ROS and ALK oncogenes ,ROS1,ALK,1
+ Both activated by generearrangements in NSCLC ROS and ALK belong to the insulinreceptor superfamily are evolutionary conserved and thus share of their amino acid sequence within their ATPbinding sites,ROS1,ALK,1
+ The criteria for ROS FISH interpretation in NSCLCare identical to those created for ALK rearrangement with twomain patterns as follows ,ROS1,ALK,1
+The promising results of extractive methodologies applied inclinical practice to determine ROS rearrangement and the possibility of using transcriptbased methods in  singletube assay todetect several oncogenic fusions in ALK RET ROS and NTRK genescould limit the use of IHC and FISH methods in the near future and possibly favor the identication of gene rearrangements inblood biopsy ,ROS1,NTRK1,1
+ROS testing into  practical algorithmIn light of the availability of specic inhibitors ROS rearrangement should be tested simultaneously with EGFR mutation and ALKrearrangement,ROS1,EGFR,1
+ROS rearrangement is generally mutually exclusive with othergenetic alterations in NSCLC but  subset may concurrently harborEGFR KRAS  BRAF or MET oncogenic mutations ,ROS1,KRAS,0
+ Differently from EGFR mutations and in line withALK rearrangements ROS fusions are equally found in Westernand Eastern populations ,EGFR,ROS1,0
+The association of  ROS fusion with  KRAS mutation in the sametumor can have accounted to the lack of response to crizotinib as observed in ALKpositive patients harboring KRAS mutations,ROS1,KRAS,1
+ Differently from the previous reported codons involved the does not correspond to ROS active site and SY substitutionsappear to induce crizotinib resistance by both preventing its accessto the enzyme active site and by increasing kinase activity the latter event reported for the corresponding ALK CY mutation,ROS1,ALK,0
+ All the three codons documented as sites of ROS mutationsresponsible forresistance to crizotinib G D andS can be object of nucleotide substitutions in ALK kinasetoo G D and C ,ROS1,ALK,0
+ The activity spectrum of the two compounds upon specic ALK mutant forms have been robustly documented  allowing to adopt it for ROS mutations too Fig,ALK,ROS1,1
+results as well as the potentialProlonged exposure of HCC cell to the specic preclinicalinhibitor JNJROSi or crizotinib allowed Cargnelutti and colleagues to detect oncogenic GC KRAS and QK NRAS mutationsrespectively associated with  markedly decreased expressionlevel of both mRNA and protein of SLCAROS in the twocrizotinibresistant models ,KRAS,NRAS,0
+ In the clinic with the limitationof  lack of analysis on the precrizotinib specimen the ndingof KRAS amplication in  ROSpositive NSCLC patient who experienced acquired resistance to the inhibitor support these preclinicalrole of mutated orhyperexpressed RAS isoforms in conditioning de novo resistanceas depicted above ,KRAS,RAS,0
+More insights about ceritinib activity in ROSpositive NSCLCpatients will hopefully derive from the ongoing phase II trialsdesigned for patients harboring ALK or ROS molecular aberrationsTable ,ALK,ROS1,1
+ReferenceDrugPhaseLocationTargetsSettingAccrualPtsbcPOORRORREvery treatmentlinePretreatedNCTEUCROSSNCTMETROSNCTNCTNCTSIGNATURENCTNCTSTARTRKNCTCrizotinibCrizotinibAT Hsp inhibitor crizotinibAUYCeritinibCeritinibEntrectininb RXDXCabozantinibIIIIEuropeROSItalyROS METIIIGlobalALK ROSIIIIIIIIIITaiwanUSAEGFR HER BRAF ALK ROSRETaALK ROSChinaALK ROSGlobalALK ROS NTRKUSAMSKCCRET ROS MET AXLNTRKEvery treatmentlinend lineToxicity proleORRORR lineEvery treatmentlineEvery treatmentlineEvery treatmentlineORRORRORRORRa Enrolling advanced NSCLC with EGFR TM EGFR exon  and other uncommon mutations HER or BRAF mutations ALK ROS or RET rearrangements,EGFR,HER2,0
+EntrectinibEntrectinib RXDX is active against gene products emerging from NTRK ALK and ROS fusion genes ,ALK,ROS1,1
+ As the recent FDA approval of the compound for the treatment of metastatic renal cancer testimonies the inhibitor hits  wide spectrum of targets among whichVEGFR MET RET KIT AXL and FLT ,AXL,FLT3,1
+ phase II trial is currently dedicated to the specic cabozantinib efcacy in advanced NSCLC harboring RET ROS or NTRKfusions as well as increased MET or AXL activity Clinicaltrials,ROS1,MET,1
+its mutantBrigatinib AP an active ALK inhibitor demonstratingclinical efcacy in phase II trials  inhibits native ROS at concentrations achievable in patients ,ALK,ROS1,1
+ In cellular models the preclinical ROS inhibitorTAE showed synergy with getinib when the resistance tothe rst compound was driven by EGFR activation ,ROS1,EGFR,0
+ Moreover NTRK GR and NTRK GR correspond to ALK GRROS GR while NTRK GC to ALKGAROS GA the latter still not observed in the clinicalsetting substitutions ,NTRK1,NTRK3,1
+ If the lastgeneration inhibitorlorlatinib can overcome the corresponding ALK GR its preclinical inefcacy against ROS GR mutants makes the needfor molecules active against this precise alteration urgent clinicaldocumentation of the suggested cabozantinib potential  isprofoundly expected,ALK,ROS1,1
+ ROS as  druggable receptor tyrosine kinaselessons learned from inhibiting the ALK pathway,ROS1,ALK,1
+ Comprehensive analysisof RET and ROS rearrangement in lung adenocarcinoma,RET,ROS1,1
+Comparison of methods in the detection of ALK and ROS rearrangements inlung cancer,ALK,ROS1,1
+ Parallelscreening for ALK MET and ROS alterations in nonsmall cell lung cancerwith implications for daily routine testing,MET,ROS1,1
+ EGFR KRAS and ROS variants coexist in  lungadenocarcinoma patient,KRAS,ROS1,1
+ Association of EGFR mutationor ALK rearrangement with expression of DNA repair and synthesis genes inneversmoker women withCancer,EGFR,ALK,1
+ Activation of RAS family members confers resistance to ROS targetingdrugs,RAS,ROS1,1
