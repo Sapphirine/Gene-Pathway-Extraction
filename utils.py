@@ -132,7 +132,7 @@ def process_new_data(file_path = './data/embed_train.csv', maxlen = 100):
         for i in range(len(list(filter(str.strip ,x.split('\n'))))):
             new_articles.append(x.split('\n')[i])
 
-    new_tokenizer = Tokenizer(nb_words=550)
+    new_tokenizer = Tokenizer(nb_words=30000)
     new_tokenizer.fit_on_texts(new_articles)
     new_sequences = tokenizer.texts_to_sequences(new_articles)
 
