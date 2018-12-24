@@ -39,7 +39,7 @@ class TextCNN(object):
     def text_cnn(self):
         '''
         embedding_matrix: A collection of word vectors that are presented in the corpus. Returned from utils.py
-        maxlem: The length of the padded sentences.
+        maxlen: The length of the padded sentences.
         '''
         if self.embedding_matrix is None:
             self.embedding_matrix = load_weights(pretrained_model = './model/wiki.en.vec', 
