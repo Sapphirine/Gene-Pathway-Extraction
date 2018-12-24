@@ -1,3 +1,6 @@
+'''
+Author: Ziyu Chen
+'''
 from keras.models import Sequential, Model
 from keras.layers import Dense
 from keras.layers import Embedding
