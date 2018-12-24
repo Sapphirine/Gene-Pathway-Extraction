@@ -115,8 +115,13 @@ def load_weights(pretrained_model = './model/wiki.en.bin', self_trained_model = 
 
     return embedding_matrix
 
+
+
     
 def process_new_data(file_path = './data/embed_train.csv', maxlen = 100):
+    '''
+    Description: Process new data sets for testing
+    '''
     new_data = pd.read_csv(file_path)
     new_dat = new_data['Sentence']
 
