@@ -134,7 +134,7 @@ def process_new_data(file_path = './data/embed_train.csv', maxlen = 100):
 
     new_tokenizer = Tokenizer(nb_words=30000)
     new_tokenizer.fit_on_texts(new_articles)
-    new_sequences = tokenizer.texts_to_sequences(new_articles)
+    new_sequences = new_tokenizer.texts_to_sequences(new_articles)
 
     new_word_index = new_tokenizer.word_index
     print('Found %s unique tokens.' % len(new_word_index))
